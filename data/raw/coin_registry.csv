@@ -1,0 +1,735 @@
+ticker,name
+BTC-USD,Bitcoin
+ETH-USD,Ethereum
+USDT-USD,Tether
+XRP-USD,XRP
+BNB-USD,BNB
+USDC-USD,USDC
+SOL-USD,Solana
+TRX-USD,TRON
+DOGE-USD,Dogecoin
+FIGR_HELOC-USD,Figure Heloc
+WBT-USD,WhiteBIT Coin
+ADA-USD,Cardano
+USDS-USD,USDS
+BCH-USD,Bitcoin Cash
+LEO-USD,LEO Token
+HYPE-USD,Hyperliquid
+CC-USD,Canton
+XMR-USD,Monero
+LINK-USD,Chainlink
+USDE-USD,Ethena USDe
+XLM-USD,Stellar
+USD1-USD,USD1
+RAIN-USD,Rain
+HBAR-USD,Hedera
+LTC-USD,Litecoin
+PYUSD-USD,PayPal USD
+DAI-USD,Dai
+AVAX-USD,Avalanche
+ZEC-USD,Zcash
+SUI-USD,Sui
+SHIB-USD,Shiba Inu
+TON-USD,Toncoin
+WLFI-USD,World Liberty Financial
+CRO-USD,Cronos
+XAUT-USD,Tether Gold
+DOT-USD,Polkadot
+M-USD,MemeCore
+PAXG-USD,PAX Gold
+UNI-USD,Uniswap
+MNT-USD,Mantle
+BUIDL-USD,BlackRock USD Institutional Digital Liquidity Fund
+USYC-USD,Circle USYC
+AAVE-USD,Aave
+TAO-USD,Bittensor
+USDF-USD,Falcon USD
+USDG-USD,Global Dollar
+ASTER-USD,Aster
+OKB-USD,OKB
+PI-USD,Pi Network
+PEPE-USD,Pepe
+RLUSD-USD,Ripple USD
+SKY-USD,Sky
+BGB-USD,Bitget Token
+HTX-USD,HTX DAO
+NEAR-USD,NEAR Protocol
+ICP-USD,Internet Computer
+ETC-USD,Ethereum Classic
+BFUSD-USD,BFUSD
+ONDO-USD,Ondo
+POL-USD,POL (ex-MATIC)
+WLD-USD,Worldcoin
+USTB-USD,Superstate Short Duration U.S. Government Securities Fund (USTB)
+GT-USD,Gate
+KCS-USD,KuCoin
+PUMP-USD,Pump.fun
+NIGHT-USD,Midnight
+MORPHO-USD,Morpho
+ATOM-USD,Cosmos Hub
+QNT-USD,Quant
+HASH-USD,Provenance Blockchain
+ENA-USD,Ethena
+NEXO-USD,NEXO
+USDTB-USD,USDtb
+KAS-USD,Kaspa
+FLR-USD,Flare
+EUTBL-USD,Spiko EU T-Bills Money Market Fund
+TRUMP-USD,Official Trump
+ALGO-USD,Algorand
+FIL-USD,Filecoin
+USDD-USD,USDD
+OUSG-USD,OUSG
+APT-USD,Aptos
+RENDER-USD,Render
+STABLE-USD,​​Stable
+JAAA-USD,Janus Henderson Anemoy AAA CLO Fund
+USDY-USD,Ondo US Dollar Yield
+XDC-USD,XDC Network
+VET-USD,VeChain
+PIPPIN-USD,pippin
+BDX-USD,Beldex
+ARB-USD,Arbitrum
+DCR-USD,Decred
+JTRSY-USD,Janus Henderson Anemoy Treasury Fund
+USD0-USD,Usual USD
+JUP-USD,Jupiter
+BONK-USD,Bonk
+GHO-USD,GHO
+A7A5-USD,A7A5
+TUSD-USD,TrueUSD
+STX-USD,Stacks
+FTN-USD,Fasttoken
+SEI-USD,Sei
+EURC-USD,EURC
+USDAI-USD,USDai
+KITE-USD,Kite
+VIRTUAL-USD,Virtuals Protocol
+PENGU-USD,Pudgy Penguins
+DASH-USD,Dash
+CAKE-USD,PancakeSwap
+XTZ-USD,Tezos
+JST-USD,JUST
+KAU-USD,Kinesis Gold
+FDUSD-USD,First Digital USD
+ETHFI-USD,Ether.fi
+CRV-USD,Curve DAO
+FET-USD,Artificial Superintelligence Alliance
+CTM-USD,c8ntinuum
+USX-USD,USX
+IP-USD,Story
+CHZ-USD,Chiliz
+LIT-USD,Lighter
+BTT-USD,BitTorrent
+PRIME-USD,PRIME
+ZRO-USD,LayerZero
+GNO-USD,Gnosis
+NFT-USD,AINFT
+KAIA-USD,Kaia
+ADI-USD,ADI
+AERO-USD,Aerodrome Finance
+INJ-USD,Injective
+BSV-USD,Bitcoin SV
+POWER-USD,Power Protocol
+SUN-USD,Sun Token
+PYTH-USD,Pyth Network
+IOTA-USD,IOTA
+TIA-USD,Celestia
+CRVUSD-USD,crvUSD
+SPX-USD,SPX6900
+GRT-USD,The Graph
+JASMY-USD,JasmyCoin
+FLOKI-USD,FLOKI
+SYRUP-USD,Maple Finance
+2Z-USD,DoubleZero
+FRAX-USD,Legacy Frax Dollar
+OHM-USD,Olympus
+LDO-USD,Lido DAO
+OP-USD,Optimism
+SIREN-USD,Siren
+CFX-USD,Conflux
+HNT-USD,Helium
+BTSE-USD,BTSE Token
+TEL-USD,Telcoin
+AB-USD,AB
+ENS-USD,Ethereum Name Service
+UDS-USD,Undeads Games
+STRK-USD,Starknet
+NUSD-USD,Neutrl USD
+AXS-USD,Axie Infinity
+SAND-USD,The Sandbox
+MON-USD,Monad
+YLDS-USD,YLDS
+RIVER-USD,River
+USDA-USD,USDa
+VVV-USD,Venice Token
+H-USD,Humanity
+AUSD-USD,AUSD
+XPL-USD,Plasma
+USTBL-USD,Spiko US T-Bills Money Market Fund
+PENDLE-USD,Pendle
+BCAP-USD,Blockchain Capital
+APEPE-USD,Ape and Pepe
+WIF-USD,dogwifhat
+TWT-USD,Trust Wallet
+ZBCN-USD,Zebec Network
+FT-USD,Flying Tulip
+BARD-USD,Lombard
+NEO-USD,NEO
+VSN-USD,Vision
+ULTIMA-USD,Ultima
+THETA-USD,Theta Network
+PC0000031-USD,Tradable NA Rent Financing Platform SSTN
+FF-USD,Falcon Finance
+MANA-USD,Decentraland
+XCN-USD,Onyxcoin
+BORG-USD,SwissBorg
+COMP-USD,Compound
+ZK-USD,ZKsync
+FDIT-USD,Fidelity Digital Interest Token
+GALA-USD,GALA
+IUSD-USD,InfiniFi USD
+TIBBIR-USD,Ribbita by Virtuals
+FLUID-USD,Fluid
+SENT-USD,Sentient
+DEXE-USD,DeXe
+FARTCOIN-USD,Fartcoin
+MX-USD,MX
+9BIT-USD,The9bit
+REAL-USD,RealLink
+WFI-USD,WeFi
+B-USD,BUILDon
+BAT-USD,Basic Attention
+KOGE-USD,KOGE
+RAY-USD,Raydium
+SATUSD-USD,Satoshi Stablecoin
+EURS-USD,STASIS EURO
+S-USD,Sonic
+CVX-USD,Convex Finance
+XEC-USD,eCash
+GUSD-USD,GUSD
+IMX-USD,Immutable
+TRAC-USD,OriginTrail
+THBILL-USD,Theo Short Duration US Treasury Fund
+RUNE-USD,THORChain
+WEMIX-USD,WEMIX
+GLM-USD,Golem
+BERA-USD,Berachain
+0G-USD,0G
+COCO-USD,coco
+SFP-USD,SafePal
+EGLD-USD,MultiversX
+QRL-USD,Quantum Resistant Ledger
+1INCH-USD,1INCH
+ACRED-USD,Apollo Diversified Credit Securitize Fund
+A-USD,Vaulta
+RLB-USD,Rollbit Coin
+JTO-USD,Jito
+WAL-USD,Walrus
+OZO-USD,Ozone Chain
+AMP-USD,Amp
+MWC-USD,MimbleWimbleCoin
+LION-USD,Loaded Lions
+GOMINING-USD,GoMining Token
+KTA-USD,Keeta
+SKR-USD,Seeker
+PUSD-USD,Pleasing USD
+COW-USD,CoW Protocol
+ZANO-USD,Zano
+SNX-USD,Synthetix
+LPT-USD,Livepeer
+EIGEN-USD,EigenCloud (prev. EigenLayer)
+DOLA-USD,DOLA
+ONYC-USD,Onchain Yield Coin
+FRXUSD-USD,Frax USD
+AVUSD-USD,Avant USD
+BAN-USD,Comedian
+CUSD-USD,Cap USD
+REUSD-USD,Re Protocol reUSD
+CASH-USD,CASH
+GRX-USD,GRX Chain
+BMX-USD,BitMart
+AR-USD,Arweave
+PMUSD-USD,Precious Metals USD
+FOGO-USD,Fogo
+TKX-USD,Tokenize Xchange
+STAC-USD,Securitize Tokenized AAA CLO Fund
+W-USD,Wormhole
+APE-USD,ApeCoin
+AWE-USD,AWE Network
+DUSD-USD,StandX DUSD
+USR-USD,Resolv USR
+GRASS-USD,Grass
+PIEVERSE-USD,Pieverse
+MF-ONE-USD,Midas mF-ONE
+MELANIA-USD,Melania Meme
+GAS-USD,Gas
+ATH-USD,Aethir
+PC0000023-USD,Tradable Singapore Fintech SSL
+PGOLD-USD,Pleasing Gold
+MNEE-USD,MNEE USD Stablecoin
+USDR-USD,Ring USD
+ZEN-USD,Horizen
+TFUEL-USD,Theta Fuel
+BEAM-USD,Beam
+YFI-USD,yearn.finance
+HOME-USD,HOME
+QTUM-USD,Qtum
+ROSE-USD,Oasis
+SOSO-USD,SoSoValue
+ICNT-USD,Impossible Cloud Network Token
+XVG-USD,Verge
+RVN-USD,Ravencoin
+NXM-USD,Nexus Mutual
+XDAI-USD,XDAI
+RSR-USD,Reserve Rights
+USDZ-USD,Anzen USDz
+MET-USD,Meteora
+UB-USD,Unibase
+Q-USD,Quack AI
+EDU-USD,Open Campus
+ZRX-USD,0x Protocol
+KSM-USD,Kusama
+AKT-USD,Akash Network
+SHFL-USD,Shuffle
+EURCV-USD,EUR CoinVertible
+ROBO-USD,Fabric Protocol
+MYX-USD,MYX Finance
+LUX-USD,Luxxcoin
+TOSHI-USD,Toshi
+KMNO-USD,Kamino
+KUB-USD,KUB Coin
+DOG-USD,Dog (Bitcoin)
+CORE-USD,Core
+CHEEMS-USD,Cheems Token
+CTC-USD,Creditcoin
+JUSD-USD,JUSD
+ZIL-USD,Zilliqa
+ZORA-USD,Zora
+META-USD,MetaDAO
+INI-USD,INI
+SN64-USD,Chutes
+XAUM-USD,Matrixdock Gold
+VCNT-USD,ViciCoin
+MAG7.SSI-USD,MAG7.ssi
+SWOP-USD,Swop
+RAVE-USD,RaveDAO
+KAITO-USD,KAITO
+DYDX-USD,dYdX
+AIOZ-USD,AIOZ Network
+DGB-USD,DigiByte
+VBILL-USD,VanEck Treasury Fund
+RON-USD,Ronin
+CCD-USD,Concordium
+OM-USD,MANTRA [Old]
+GAMA-USD,Gama Token
+CKB-USD,Nervos Network
+MINA-USD,Mina Protocol
+CGUSD-USD,Cygnus Finance Global USD
+FEUSD-USD,Felix feUSD
+MOVE-USD,Movement
+AGENTFUN-USD,AgentFun.AI
+SUPER-USD,SuperVerse
+REKT-USD,Rekt
+FORM-USD,Four
+T-USD,Threshold Network
+TEMPLE-USD,TempleDAO
+SAFE-USD,Safe
+DBR-USD,deBridge
+HOT-USD,Holo
+SOON-USD,SOON
+LINEA-USD,Linea
+CET-USD,CoinEx
+BC-USD,BCGame Coin
+ALEO-USD,ALEO
+GMX-USD,GMX
+BABYDOGE-USD,Baby Doge Coin
+币安人生-USD,币安人生 (BinanceLife)
+BRETT-USD,Brett
+NXPC-USD,Nexpace
+XNO-USD,Nano
+RAIL-USD,Railgun
+FLOW-USD,Flow
+ESP-USD,Espresso
+SAHARA-USD,Sahara AI
+TURBO-USD,Turbo
+NILA-USD,MindWaveDAO
+CFG-USD,Centrifuge
+USDU-USD,USDu
+TDCCP-USD,TDCCP
+ALCH-USD,Alchemist AI
+PUFF-USD,Puff The Dragon
+LYN-USD,Everlyn
+ZETA-USD,ZetaChain
+VVS-USD,VVS Finance
+MOCA-USD,Moca Network
+CONSCIOUS-USD,Conscious Token
+JUPUSD-USD,JupUSD
+ELF-USD,aelf
+METAL-USD,Metal Blockchain
+AZTEC-USD,Aztec
+ISLM-USD,Islamic Coin
+ARKM-USD,Arkham
+DEEP-USD,DeepBook
+JELLYJELLY-USD,Jelly-My-Jelly
+AXL-USD,Axelar
+ASTR-USD,Astar
+XPR-USD,XPR Network
+MOG-USD,Mog Coin
+USDO-USD,OpenEden OpenDollar
+NMR-USD,Numeraire
+UCN-USD,UCHAIN
+SC-USD,Siacoin
+QUBIC-USD,Qubic
+VRSC-USD,Verus
+MBG-USD,MBG By Multibank Group
+CRCLON-USD,Circle Internet Group (Ondo Tokenized Stock)
+HSK-USD,HashKey Platform Token
+BDCA-USD,BitDCA
+USDM-USD,MegaUSD
+GWEI-USD,ETHGas
+PCI-USD,Paycoin
+UPUMP-USD,Unit Pump
+NPC-USD,Non-Playable Coin
+VELO-USD,Velo
+VTHO-USD,VeThor
+BICO-USD,Biconomy
+OFT-USD,ONFA
+AIC-USD,AI Companions
+COAI-USD,ChainOpera AI
+SXT-USD,Space and Time
+PROVE-USD,Succinct
+DESO-USD,Decentralized Social
+GEOD-USD,Geodnet
+WMTX-USD,World Mobile Token
+CYS-USD,Cysic
+BNKR-USD,BankrCoin
+SUSHI-USD,Sushi
+XYO-USD,XYO Network
+BLUR-USD,Blur
+AEUR-USD,Anchored Coins AEUR
+PYTHIA-USD,PYTHIA
+EURI-USD,Eurite
+QAI-USD,QuantixAI
+VENOM-USD,Venom
+ORBS-USD,Orbs
+LBT-USD,Law Blocks AI
+MEW-USD,cat in a dogs world
+ORCA-USD,Orca
+POLYX-USD,Polymesh
+KAVA-USD,Kava
+FIDD-USD,Fidelity Digital Dollar
+ELG-USD,Escoin
+UAI-USD,UnifAI Network
+USDON-USD,Ondo U.S. Dollar Token
+ORDI-USD,ORDI
+RED-USD,RedStone
+THEROS-USD,Theros
+MHYPER-USD,Midas mHYPER
+BCE-USD,bitcastle Token
+TSLAX-USD,Tesla xStock
+GOOGLON-USD,Alphabet Class A (Ondo Tokenized Stock)
+MERL-USD,Merlin Chain
+ME-USD,Magic Eden
+MOODENG-USD,Moo Deng
+ZIG-USD,ZIGChain
+ARRR-USD,Pirate Chain
+GMRT-USD,The Game Company
+USDKG-USD,USDKG
+SPK-USD,Spark
+AUSDT-USD,Alloy Tether
+XVS-USD,Venus
+ZAMA-USD,Zama
+DRIFT-USD,Drift Protocol
+PLUME-USD,Plume
+BTR-USD,Bitlayer
+WAVES-USD,Waves
+XCH-USD,Chia
+CELO-USD,Celo
+MTBILL-USD,Midas mTBILL
+XUSD-USD,StraitsX XUSD
+USD+-USD,Overnight.fi USD+
+ANVL-USD,Anvil
+SKYAI-USD,SkyAI
+AVNT-USD,Avantis
+REQ-USD,Request
+POPCAT-USD,Popcat
+FIUSD-USD,Sygnum FIUSD Liquidity Fund
+WHITEWHALE-USD,The White Whale
+GUN-USD,Gunz
+CUSDO-USD,Compounding OpenDollar
+NIZA-USD,Niza Global
+ESPORTS-USD,Yooldo Games
+PNUT-USD,Peanut the Squirrel
+BANANAS31-USD,Banana For Scale
+BIRB-USD,Moonbirds
+INC-USD,WorldAssets
+VANA-USD,Vana
+LA-USD,Lagrange
+ALT-USD,AltLayer
+USDX-USD,Hex Trust USD
+DAG-USD,Constellation
+BURN-USD,BurnedFi
+BORA-USD,BORA
+WOULD-USD,would
+GOHOME-USD,GOHOME
+RLP-USD,Resolv Liquidity Provider Token
+TRIA-USD,TRIA
+UNP-USD,Unipoly
+ARDR-USD,Ardor
+IOTX-USD,IoTeX
+OMNI-USD,Omni Network [Old]
+DUSK-USD,DUSK
+FB-USD,Fractal Bitcoin
+MASK-USD,Mask Network
+ANKR-USD,Ankr Network
+CSPR-USD,Casper Network
+YZY-USD,YZY
+VR-USD,Victoria VR
+SSV-USD,SSV Network
+LCX-USD,LCX
+SNT-USD,Status
+APEX-USD,APEX
+RPL-USD,Rocket Pool
+SNEK-USD,Snek
+SINGULARRY-USD,Singularry
+API3-USD,Api3
+NOW-USD,ChangeNOW
+LRC-USD,Loopring
+AUX-USD,Austin Capitals
+AUKI-USD,Auki
+UMA-USD,UMA
+GPS-USD,GoPlus Security
+PUNDIX-USD,Pundi X
+FUL-USD,Fulcrom
+ONT-USD,Ontology
+DOVU-USD,DOVU
+ICX-USD,ICON
+IRYS-USD,Irys
+USDP-USD,Pax Dollar
+PURR-USD,Purr
+TRB-USD,Tellor Tributes
+SKL-USD,SKALE
+BIO-USD,Bio Protocol
+BUSD-USD,BUSD
+USELESS-USD,Useless Coin
+TBK-USD,TronBank
+SN120-USD,affine
+SLVON-USD,iShares Silver Trust (Ondo Tokenized Stock)
+MVL-USD,MVL
+MEME-USD,Memecoin
+ENJ-USD,Enjin Coin
+QUAI-USD,Quai Network
+ATOS-USD,Atoshi
+ATONE-USD,AtomOne
+SQD-USD,SQD
+YUSD-USD,Aegis YUSD
+SRX-USD,StorX
+BABY-USD,Babylon
+SIGN-USD,Sign
+GLIDR-USD,Glidr
+SWFTC-USD,SWFTCOIN
+NOT-USD,Notcoin
+BIM-USD,BIM
+IOST-USD,IOST
+LISUSD-USD,Lista USD
+EGL1-USD,EGL1
+BOTX-USD,BOTXCOIN
+GMT-USD,GMT
+KGEN-USD,KGeN
+AT-USD,Apro
+TAG-USD,TAGGER
+CRCLX-USD,Circle xStock
+BAND-USD,Band
+ONE-USD,Harmony
+SB-USD,Snowbank
+ELON-USD,Dogelon Mars
+MNGO-USD,Mango
+ZCHF-USD,Frankencoin
+HIVE-USD,Hive
+ARK-USD,ARK
+HEZ-USD,Hermez Network
+UXPL-USD,Unit Plasma
+BREV-USD,Brevis
+LON-USD,Tokenlon
+KNTQ-USD,Kinetiq
+CROSS-USD,CROSS
+AUCTION-USD,Bounce
+DEP-USD,DEAPCOIN
+ILV-USD,Illuvium
+ACH-USD,Alchemy Pay
+OMI-USD,ECOMI
+ETHW-USD,EthereumPoW
+SOMI-USD,Somnia
+ANA-USD,Nirvana ANA
+PM-USD,PumpMeme
+AINTI-USD,AIntivirus
+HBD-USD,Hive Dollar
+AIAT-USD,AI Analysis Token
+HLDR-USD,Helder
+IO-USD,io.net
+PEOPLE-USD,ConstitutionDAO
+CYBER-USD,CYBER
+STEEM-USD,Steem
+POWR-USD,Powerledger
+OPEN-USD,OpenLedger
+MGO-USD,Mango Network
+XTUSD-USD,XT Stablecoin XTUSD
+DRV-USD,Derive
+SN4-USD,Targon
+SN62-USD,Ridges AI
+COTI-USD,COTI
+THE-USD,Thena
+RYZE-USD,Ryze
+RIF-USD,Rootstock Infrastructure Framework
+CARV-USD,CARV
+ARC-USD,AI Rig Complex
+CLASH-USD,GeorgePlaysClashRoyale
+TORN-USD,Tornado Cash
+FXSAVE-USD,f(x) USD Saving
+XRD-USD,Radix
+NKYC-USD,NKYC Token
+BNT-USD,Bancor Network
+LUSD-USD,Liquity USD
+WHITE-USD,Whiteheart
+EWT-USD,Energy Web
+DXI-USD,Dacxi
+USN-USD,Noon USN
+SPELL-USD,Spell
+SN8-USD,Proprietary Trading Network
+CHEX-USD,Chintai
+KUJI-USD,Kujira
+FROG-USD,just a frog
+PSP-USD,Pre-SP
+STG-USD,Stargate Finance
+WOO-USD,WOO
+ENSO-USD,Enso
+MUON-USD,Micron Technology (Ondo Tokenized Stock)
+STRAX-USD,Xertra
+BOLD-USD,BOLD
+SVL-USD,Slash Vision Labs
+B2-USD,BSquared Network
+POKT-USD,Pocket Network
+MANTA-USD,Manta Network
+CTK-USD,Shentu
+NEIRO-USD,Neiro
+BLAST-USD,Blast
+SHX-USD,Stronghold
+PEAQ-USD,peaq
+MLK-USD,MiL.k
+ANT-USD,Autonomi
+IQ-USD,IQ
+YOUSD-USD,Yield Optimizer USD
+B2M-USD,Bit2Me
+MGG-USD,MimboGameGroup
+ZENT-USD,Zentry
+LSK-USD,Lisk
+CLANKER-USD,tokenbot
+ERG-USD,Ergo
+MEY-USD,Mey Network
+WAXP-USD,WAX
+USTC-USD,TerraClassicUSD
+SPYON-USD,SPDR S&P 500 ETF (Ondo Tokenized ETF)
+YGG-USD,Yield Guild Games
+RLC-USD,iExec RLC
+QANX-USD,QANplatform
+LIUSD-USD,infiniFi Locked iUSD (1week)
+ONG-USD,Ontology Gas
+WKC-USD,Wiki Cat
+EURE-USD,Monerium EUR emoney
+AUDIO-USD,Audius
+UQC-USD,Uquid Coin
+GAL-USD,GAL (migrated to Gravity - G)
+BEAT-USD,Audiera
+ANIME-USD,Animecoin
+SN51-USD,lium
+AP3X-USD,APEX
+SOPH-USD,Sophon
+ORE-USD,ORE
+BIGTIME-USD,Big Time
+SN44-USD,Score
+MIMATIC-USD,MAI
+SAI-USD,Sai
+REI-USD,Rei
+SUSD-USD,Synthetix sUSD
+GXC-USD,GXChain
+LQTY-USD,Liquity
+GIGGLE-USD,Giggle Fund
+DENT-USD,Dent
+PRDT-USD,Predictions
+SCRT-USD,Secret
+VULT-USD,Vultisig
+BOME-USD,BOOK OF MEME
+AGI-USD,Delysium
+BBT-USD,BabyBoomToken
+GAME-USD,GameBuild
+AERGO-USD,Aergo
+OSMO-USD,Osmosis
+DOOD-USD,Doodles
+SGB-USD,Songbird
+WET-USD,HumidiFi
+NYC-USD,NYC
+ERA-USD,Caldera
+TCY-USD,THORChain Yield
+VEE-USD,BLOCKv
+BUCK-USD,Bucket Protocol BUCK Stablecoin
+APTM-USD,Apertum
+SOLVBTC.JUP-USD,Solv Protocol SolvBTC Jupiter
+ACU-USD,Acurast
+AGETH-USD,Kelp Gain
+CVC-USD,Civic
+C98-USD,Coin98
+AIX-USD,Planet IX
+BFC-USD,Bifrost
+CXO-USD,CargoX
+ALLO-USD,Allora
+SDEX-USD,SMARDEX
+SN3-USD,τemplar
+SOLO-USD,Sologenic
+DEGEN-USD,Degen
+G-USD,Gravity (by Galxe)
+FLUX-USD,Flux
+USDCV-USD,USD CoinVertible
+CORN-USD,Corn
+CBK-USD,Cobak
+LAVA-USD,Lava Network
+MTL-USD,Metal DAO
+USDN-USD,Noble Dollar (USDN)
+HONEY-USD,Honey
+MMT-USD,Momentum
+PTGC-USD,The Grays Currency
+MSUSD-USD,Main Street USD
+MWXT-USD,MWX Token
+NEET-USD,"Not in Employment, Education, or Training"
+AMIKO-USD,Amiko
+MED-USD,Medibloc
+NVDAON-USD,NVIDIA (Ondo Tokenized Stock)
+KERNEL-USD,KernelDAO
+QKC-USD,QuarkChain
+AO-USD,ao Computer
+GYD-USD,Gyroscope GYD
+TAIKO-USD,Taiko
+QQQON-USD,Invesco QQQ ETF (Ondo Tokenized ETF)
+LISTA-USD,Lista DAO
+SATS-USD,SATS (Ordinals)
+METIS-USD,Metis
+WIN-USD,WINkLink
+ACX-USD,Across Protocol
+KNC-USD,Kyber Network Crystal
+XPIN-USD,XPIN Network
+PARTI-USD,Particle Network
+MARSMI-USD,MarsMi
+DIEM-USD,Diem
+MUSD-USD,MetaMask USD
+EUSD-USD,Electronic USD
+RESOLV-USD,Resolv
+GCB-USD,Global Commercial Business
+INX-USD,Infinex
+PEP-USD,Pepecoin
+HP-USD,Hippo Protocol
+AGLD-USD,Adventure Gold
+MMEV-USD,Midas mMEV
+FTRB-USD,Faith Tribe
+ES-USD,Eclipse
+PINKSALE-USD,PinkSale
+CTSI-USD,Cartesi
