@@ -211,7 +211,7 @@ def render_home() -> None:
         ("📡", "Live Price Data",
          "Pulls the complete OHLCV history directly from Yahoo Finance for accurate, up-to-date training data."),
         ("🧠", "LSTM Neural Network",
-         "Two stacked LSTM layers with a 60-day lookback window learn temporal price patterns from historical data."),
+         "Two stacked LSTM layers with a 60-day lookback window learn price patterns from historical data."),
         ("📈", "Interactive Forecast",
          "Results visualised as a Plotly overlay chart showing historical prices, model fit, and future prediction."),
         ("🎯", "Adjustable Horizon",
