@@ -58,8 +58,8 @@ The main forecasting dashboard. Contains:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/CryptoVision.git
-cd CryptoVision
+git clone https://github.com/Hussnain-Nazir/Cryptocurrency-Price-Predictor.git
+cd Cryptocurrency-Price-Predictor
 ```
 
 **2. Create and activate a virtual environment**
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 streamlit run HOME.py
 ```
 
-Open your browser at `http://localhost:8501`.
+Open your browser at `http://localhost:8501`
 
 ---
 
@@ -178,16 +178,7 @@ CryptoVision/
 | numpy | 1.26.4 |
 | requests | 2.31.0 |
 
-> Python 3.11 is required. TensorFlow 2.14 does not support Python 3.12+.
-
----
-
-## Environment
-
-Developed and tested on:
-- **OS**: Ubuntu 22.04 LTS / macOS 14
-- **Python**: 3.11.x
-- **CPU inference** — no GPU required
+> Python 3.11 is required.
 
 ---
 
