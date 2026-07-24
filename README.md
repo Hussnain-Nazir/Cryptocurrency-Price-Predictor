@@ -103,7 +103,7 @@ This fetches the top 1,000 coins by market cap from the CoinGecko public API and
 ## Project Structure
 
 ```
-CryptoVision/
+Cryptocurrency-Price-Predictor/
 │
 ├── HOME.py                        # Entry-point — HOME page
 │
