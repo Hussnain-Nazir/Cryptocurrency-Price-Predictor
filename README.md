@@ -2,7 +2,7 @@
   <img src="assets/LOGO.webp" alt="CryptoVision Logo" width="120" />
 </p>
 
-<h1 align="center">CryptoVision – Cryptocurrency Price Predictor</h1>
+<h1 align="center">CryptoVision - Cryptocurrency Price Predictor</h1>
 
 <p align="center">
   A professional LSTM-powered cryptocurrency price forecasting dashboard built with Python and Streamlit.
@@ -16,24 +16,24 @@
 
 CryptoVision is a machine learning web application that forecasts cryptocurrency closing prices using a two-layer stacked LSTM (Long Short-Term Memory) neural network. It pulls full historical OHLCV data from Yahoo Finance, trains a model on the fly, and presents an interactive price forecast through a Binance-inspired dark trading dashboard.
 
-The project is designed as a portfolio demonstration of end-to-end ML pipeline development: data ingestion, sequence modelling, interactive visualisation, and technical analysis — all within a clean, professional UI.
+The project is designed as a portfolio demonstration of end-to-end ML pipeline development: data ingestion, sequence modelling, interactive visualisation, and technical analysis - all within a clean, professional UI.
 
 ---
 
 ## Key Features
 
-- **1,000 supported coins** — Top assets by market cap, pre-loaded from CoinGecko
-- **Live data** — Full OHLCV history pulled in real time via Yahoo Finance
-- **LSTM model** — Two stacked LSTM layers (50 units each), 60-day lookback, 80/20 train-test split
-- **Configurable training** — Adjust epochs (1–50) and forecast horizon (1–90 days) from the sidebar
-- **Three-trace forecast chart** — Historical prices, model back-test fit, and future forecast overlaid in one view
-- **Market stat cards** — Last close, 24h change, all-time high/low, and dataset size at a glance
-- **Volume chart** — Trading volume bar chart
-- **Moving Average chart** — MA20, MA50, and MA200 overlaid on the closing price for trend analysis
-- **RSI chart** — 14-day Relative Strength Index with overbought (70) and oversold (30) reference bands
-- **Forecast table** — Day-by-day predicted prices displayed in a sortable table
-- **CSV export** — Download the full forecast as a CSV file with one click
-- **Intuitive dashboard** — Designed to support efficient navigation and clear data interpretation
+- **1,000 supported coins** - Top assets by market cap, pre-loaded from CoinGecko
+- **Live data** - Full OHLCV history pulled in real time via Yahoo Finance
+- **LSTM model** - Two stacked LSTM layers (50 units each), 60-day lookback, 80/20 train-test split
+- **Configurable training** - Adjust epochs (1-50) and forecast horizon (1-90 days) from the sidebar
+- **Three-trace forecast chart** - Historical prices, model back-test fit, and future forecast overlaid in one view
+- **Market stat cards** - Last close, 24h change, all-time high/low, and dataset size at a glance
+- **Volume chart** - Trading volume bar chart
+- **Moving Average chart** - MA20, MA50, and MA200 overlaid on the closing price for trend analysis
+- **RSI chart** - 14-day Relative Strength Index with overbought (70) and oversold (30) reference bands
+- **Forecast table** - Day-by-day predicted prices displayed in a sortable table
+- **CSV export** - Download the full forecast as a CSV file with one click
+- **Intuitive dashboard** - Designed to support efficient navigation and clear data interpretation
 
 ---
 
@@ -44,15 +44,15 @@ Introduction to the tool, feature overview, step-by-step usage guide, and a mode
 
 ### PREDICTOR Page
 The main forecasting dashboard. Contains:
-- **Asset selector** — Choose any of the 1,000 supported coins
-- **Model parameters** — Epoch count and forecast horizon sliders
-- **Market overview panel** — Key stats for the selected coin
-- **Historical price chart** — Full price history area chart
-- **Volume chart** — Trading volume bars in the app accent colour
-- **Technical Analysis** — Tabbed section with Moving Average and RSI charts
-- **Forecast chart** — Overlay of historical, back-test fit, and future predicted prices
-- **Forecast summary** — Start price, end price, and expected percentage change
-- **Day-by-day table** — Exportable price-per-day forecast
+- **Asset selector** - Choose any of the 1,000 supported coins
+- **Model parameters** - Epoch count and forecast horizon sliders
+- **Market overview panel** - Key stats for the selected coin
+- **Historical price chart** - Full price history area chart
+- **Volume chart** - Trading volume bars in the app accent colour
+- **Technical Analysis** - Tabbed section with Moving Average and RSI charts
+- **Forecast chart** - Overlay of historical, back-test fit, and future predicted prices
+- **Forecast summary** - Start price, end price, and expected percentage change
+- **Day-by-day table** - Exportable price-per-day forecast
 
 ---
 
@@ -113,7 +113,7 @@ This fetches the top 1,000 coins by market cap from the CoinGecko public API and
 ```
 Cryptocurrency-Price-Predictor/
 │
-├── HOME.py                        # Entry-point — HOME page
+├── HOME.py                        # Entry-point - HOME page
 │
 ├── pages/
 │   └── PREDICTOR.py               # PREDICTOR dashboard page
@@ -148,17 +148,17 @@ Cryptocurrency-Price-Predictor/
 
 ## How Predictions Work
 
-1. **Data ingestion** — `yfinance` downloads the full daily closing price history for the selected coin (all available data, typically 4–7 years for major coins).
+1. **Data ingestion** - `yfinance` downloads the full daily closing price history for the selected coin (all available data, typically 4-7 years for major coins).
 
-2. **Preprocessing** — Prices are normalised to [0, 1] using MinMaxScaler. Sequences of 60 consecutive days are created as input windows.
+2. **Preprocessing** - Prices are normalised to [0, 1] using MinMaxScaler. Sequences of 60 consecutive days are created as input windows.
 
-3. **Training** — An 80% slice of the data trains a two-layer stacked LSTM. Layer 1 returns full sequences; Layer 2 outputs a single value fed through a Dense hidden layer and a final Dense output neuron.
+3. **Training** - An 80% slice of the data trains a two-layer stacked LSTM. Layer 1 returns full sequences; Layer 2 outputs a single value fed through a Dense hidden layer and a final Dense output neuron.
 
-4. **Back-testing** — The trained model runs inference on the held-out 20% test slice, producing a back-test fit line visible on the forecast chart.
+4. **Back-testing** - The trained model runs inference on the held-out 20% test slice, producing a back-test fit line visible on the forecast chart.
 
-5. **Forecasting** — The model predicts autoregressively: each new prediction is appended to the rolling 60-day window, which then feeds the next step. This repeats for the chosen horizon.
+5. **Forecasting** - The model predicts autoregressively: each new prediction is appended to the rolling 60-day window, which then feeds the next step. This repeats for the chosen horizon.
 
-6. **Inverse scaling** — All predictions are scaled back to USD before display.
+6. **Inverse scaling** - All predictions are scaled back to USD before display.
 
 | Parameter | Value |
 |---|---|
@@ -192,9 +192,9 @@ Cryptocurrency-Price-Predictor/
 
 ## Notes
 
-- **Training time** — With `batch_size=1` and Bitcoin's ~4,000 rows of history, expect roughly 1–3 minutes per epoch on a modern CPU. Start with 5–10 epochs.
-- **Yahoo Finance availability** — Data quality and availability vary by coin. Very new or illiquid tokens may return empty results.
-- **CoinGecko rate limits** — The free API tier allows ~30 req/min. The registry builder sleeps automatically on HTTP 429 responses.
+- **Training time** - With `batch_size=1` and Bitcoin's ~4,000 rows of history, expect roughly 1-3 minutes per epoch on a modern CPU. Start with 5-10 epochs.
+- **Yahoo Finance availability** - Data quality and availability vary by coin. Very new or illiquid tokens may return empty results.
+- **CoinGecko rate limits** - The free API tier allows ~30 req/min. The registry builder sleeps automatically on HTTP 429 responses.
 
 ---
 
