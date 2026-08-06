@@ -5,6 +5,7 @@ Home page: introduction, feature overview, usage guide.
 
 import streamlit as st
 from config.theme import PALETTE
+from core.branding import get_logo_data_uri
 
 
 # Private helpers
@@ -136,13 +137,10 @@ def render_home() -> None:
           ">
             <div style="
               width: 32px; height: 32px;
-              background: {PALETTE['accent']};
               border-radius: 6px;
-              display: flex; align-items: center;
-              justify-content: center;
-              font-size: 16px;
-              flex-shrink: 0;
-            ">◈</div>
+              display: flex; align-items: center; justify-content: center;
+              overflow: hidden;
+            "><img src="{get_logo_data_uri()}" style="width:100%;height:100%;object-fit:contain;"></div>
             <h1 style="
               font-family: 'Barlow Condensed', sans-serif !important;
               font-size: 1.85rem !important;

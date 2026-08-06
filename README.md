@@ -1,6 +1,14 @@
-# ◈ CryptoVision – Cryptocurrency Price Predictor
+<p align="center">
+  <img src="assets/LOGO.webp" alt="CryptoVision Logo" width="120" />
+</p>
 
-> A professional LSTM-powered cryptocurrency price forecasting dashboard built with Python and Streamlit.
+<h1 align="center">CryptoVision – Cryptocurrency Price Predictor</h1>
+
+<p align="center">
+  A professional LSTM-powered cryptocurrency price forecasting dashboard built with Python and Streamlit.
+</p>
+
+> ⚠️ **Disclaimer:** CryptoVision is a portfolio and educational project. All forecasts are generated from historical price data and are for illustrative purposes only. Nothing in this project constitutes financial advice. Past price patterns are not indicative of future results.
 
 ---
 
@@ -190,6 +198,6 @@ Cryptocurrency-Price-Predictor/
 
 ---
 
-## Disclaimer
+## License
 
-**CryptoVision is a portfolio and educational project. All forecasts are generated from historical price data and are for illustrative purposes only. Nothing in this project constitutes financial advice. Past price patterns are not indicative of future results.**
+This project is licensed under the [MIT License](LICENSE).

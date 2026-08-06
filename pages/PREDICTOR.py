@@ -12,10 +12,11 @@ from config.theme import inject_theme
 from core.market_data import load_coin_registry
 from ui.components.sidebar import render_sidebar
 from ui.views.predictor import render_predictor
+from core.branding import LOGO_PATH, get_logo_data_uri
 
 st.set_page_config(
     page_title="CryptoVision – PREDICTOR",
-    page_icon="◈",
+    page_icon=str(LOGO_PATH),
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -59,8 +60,8 @@ else:
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 1.6rem;
-          ">◈</div>
+            overflow: hidden;
+          "><img src="{get_logo_data_uri()}" style="width:70%;height:70%;object-fit:contain;"></div>
           <div style="
             font-family: 'Barlow Condensed', sans-serif;
             font-size: 1.4rem;

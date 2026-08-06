@@ -5,6 +5,7 @@ Sidebar control panel
 
 import streamlit as st
 from config.theme import PALETTE
+from core.branding import get_logo_data_uri
 
 
 # Helpers
@@ -47,11 +48,10 @@ def render_sidebar(coin_registry: list[dict]) -> dict:
               ">
                 <div style="
                   width: 28px; height: 28px;
-                  background: {PALETTE['accent']};
                   border-radius: 6px;
                   display: flex; align-items: center; justify-content: center;
-                  font-size: 14px; line-height: 1;
-                ">◈</div>
+                  overflow: hidden;
+                "><img src="{get_logo_data_uri()}" style="width:100%;height:100%;object-fit:contain;"></div>
                 <span style="
                   font-family: 'Barlow Condensed', sans-serif;
                   font-size: 1.25rem;
